@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc9d2956.chunk.css",
-    "main.js": "/static/js/main.3f6a132d.chunk.js",
-    "main.js.map": "/static/js/main.3f6a132d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f8e8ecf2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f8e8ecf2.js.map",
-    "static/css/2.6d910b2b.chunk.css": "/static/css/2.6d910b2b.chunk.css",
-    "static/js/2.d65416dc.chunk.js": "/static/js/2.d65416dc.chunk.js",
-    "static/js/2.d65416dc.chunk.js.map": "/static/js/2.d65416dc.chunk.js.map",
+    "main.css": "/static/css/main.9a34476f.chunk.css",
+    "main.js": "/static/js/main.119a2561.chunk.js",
+    "main.js.map": "/static/js/main.119a2561.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.836b504c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.836b504c.js.map",
+    "static/css/2.d694ff75.chunk.css": "/static/css/2.d694ff75.chunk.css",
+    "static/js/2.ee60518c.chunk.js": "/static/js/2.ee60518c.chunk.js",
+    "static/js/2.ee60518c.chunk.js.map": "/static/js/2.ee60518c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4ca57efb1878e5236efd6a379b740776.js": "/precache-manifest.4ca57efb1878e5236efd6a379b740776.js",
+    "precache-manifest.3a85777286d787b796ec86e4f5f029b3.js": "/precache-manifest.3a85777286d787b796ec86e4f5f029b3.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.6d910b2b.chunk.css.map": "/static/css/2.6d910b2b.chunk.css.map",
-    "static/css/main.bc9d2956.chunk.css.map": "/static/css/main.bc9d2956.chunk.css.map",
-    "static/media/material-icons.css": "/static/media/MaterialIcons-Regular.e79bfd88.eot",
+    "static/css/2.d694ff75.chunk.css.map": "/static/css/2.d694ff75.chunk.css.map",
+    "static/css/main.9a34476f.chunk.css.map": "/static/css/main.9a34476f.chunk.css.map",
+    "static/js/2.ee60518c.chunk.js.LICENSE.txt": "/static/js/2.ee60518c.chunk.js.LICENSE.txt",
     "static/media/arabic-flag.svg": "/static/media/arabic-flag.ed524411.svg",
     "static/media/eng-flag.svg": "/static/media/eng-flag.cbfe8d83.svg",
     "static/media/logo.png": "/static/media/logo.6b659f2f.png",
@@ -21,10 +21,10 @@
     "static/media/sign-bg.jpg": "/static/media/sign-bg.cf865376.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f8e8ecf2.js",
-    "static/css/2.6d910b2b.chunk.css",
-    "static/js/2.d65416dc.chunk.js",
-    "static/css/main.bc9d2956.chunk.css",
-    "static/js/main.3f6a132d.chunk.js"
+    "static/js/runtime-main.836b504c.js",
+    "static/css/2.d694ff75.chunk.css",
+    "static/js/2.ee60518c.chunk.js",
+    "static/css/main.9a34476f.chunk.css",
+    "static/js/main.119a2561.chunk.js"
   ]
 }
